@@ -10,5 +10,5 @@ for i in range(len(a) - 1):
                 s = b
         else :
           break
-
-print(s)
+    
+print("s is " + s)
